@@ -7,11 +7,17 @@
 
 ## GitHub 访问速度慢的问题，项目中的图片显示不出的问题
 1. hosts文件添加指定配置
+
 Windows 系统：C:\Windows\System32\drivers\etc\hosts
+
 Linux 系统：/etc/hosts
+
 Mac（苹果电脑）系统：/etc/hosts
+
 Android（安卓）系统：/system/etc/hosts
+
 iPhone（iOS）系统：/etc/hosts
+
 
 ```bash
 # GitHub520 Host Start
