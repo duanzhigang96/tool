@@ -87,6 +87,6 @@ volumes:
 
 3.
 docker-compose up -d
-
+```
 ## 好用的markdown编辑器
 https://www.typora.io/
