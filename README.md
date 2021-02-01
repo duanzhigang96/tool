@@ -93,5 +93,7 @@ https://www.typora.io/
 
 ## 允许windows运行脚本 cannot be loaded because running scripts is disabled on this system
 1.使用管理员打开powerShell 
+
 2.运行 set-ExecutionPolicy RemoteSigned
+
 3.输入A
