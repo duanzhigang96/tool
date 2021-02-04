@@ -97,3 +97,6 @@ https://www.typora.io/
 2.运行 set-ExecutionPolicy RemoteSigned
 
 3.输入A
+
+## 识别图片中文字
+https://tianruoocr.cn/
