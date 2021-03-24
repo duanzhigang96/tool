@@ -100,3 +100,6 @@ https://www.typora.io/
 
 ## 识别图片中文字
 https://tianruoocr.cn/
+
+## windows10 解除文件占用
+任务管理器->性能->CPU->打开资源监视器->搜索句柄->结束进程
