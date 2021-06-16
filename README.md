@@ -1,4 +1,4 @@
-# 记录工作中实用的小工具
+# 记录工作中实用的工具
 
 ## 谷歌浏览器长截图
 1. F12进入开发者模式
@@ -103,3 +103,9 @@ https://tianruoocr.cn/
 
 ## windows10 解除文件占用
 任务管理器->性能->CPU->打开资源监视器->搜索句柄->结束进程
+
+## 文档生成工具
+可以将MD文档自动生成网页文档并生成目录
+https://docsify.js.org/#/zh-cn/
+自己搭建的gitHub Page文档页
+https://duanzhigang96.github.io/kafukaBlog/
