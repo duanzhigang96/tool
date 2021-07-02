@@ -112,7 +112,8 @@ https://docsify.js.org/#/zh-cn/
 https://duanzhigang96.github.io/kafukaBlog/
 
 
-## 循环创建文件指定大小
+## 循环创建指定大小文件 需要创建bat文件 然后执行
+## 1024 为byte单位
 ```cmd
 @echo off
 for /l %%a in (1,1,1000) do fsutil file createnew .\test%%a.zip 1024
