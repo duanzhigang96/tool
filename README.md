@@ -110,3 +110,11 @@ https://docsify.js.org/#/zh-cn/
 
 自己搭建的gitHub Page文档页
 https://duanzhigang96.github.io/kafukaBlog/
+
+
+## 循环创建文件指定大小
+```cmd
+@echo off
+for /l %%a in (1,1,1000) do fsutil file createnew .\test%%a.zip 1024
+pause
+```
